@@ -8,7 +8,7 @@
 <a href="https://github.com/neogcamp/mockman/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/npm/l/mockman?style=flat-square" alt="mockman licence" />
 </a>
-<a href="https://github.com/neogcamp/mockman/fork" target="blank">
+<a href="https://github.com/neogcamp/mockman/network/members" target="blank">
 <img src="https://img.shields.io/github/forks/neogcamp/mockman?style=flat-square" alt="mockman forks"/>
 </a>
 <a href="https://github.com/neogcamp/mockman/stargazers" target="blank">
